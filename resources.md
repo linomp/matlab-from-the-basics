@@ -8,7 +8,7 @@
 
 - Normalized RGB color examples: https://www.tug.org/pracjourn/2007-4/walden/color.pdf
 
-- Latex math symbols cheatsheets: [here]([here](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)) | [or here](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
+- Latex math symbols cheatsheets: [here](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index) | [or here](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
 
 - ODE45: [here](https://www.youtube.com/watch?v=nTRNrvJmixw) | [or here](http://www.eng.auburn.edu/~tplacek/courses/3600/ode45berkley.pdf)
 
